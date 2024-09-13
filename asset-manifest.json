@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7a6ad0a8.css",
+    "main.js": "./static/js/main.42ccf1cc.js",
+    "static/media/Talking_Head_KOL_Video_Film_1.mp4": "./static/media/Talking_Head_KOL_Video_Film_1.mp4",
+    "static/media/Homepage-bkg-7680x4094px-@2x.png": "./static/media/Homepage-bkg-7680x4094px-@2x.08313be13330bf4210bc.png",
+    "static/media/Manufacturing-4-popup-@2x.png": "./static/media/Manufacturing-4-popup-@2x.7e59befea17f389e26b3.png",
+    "static/media/Manufacturing-3-popup-@2x.png": "./static/media/Manufacturing-3-popup-@2x.d35aacd038e2baa138f5.png",
+    "static/media/susvimo_prescribing.pdf": "./static/media/susvimo_prescribing.17331e6a229cb8a7a4e3.pdf",
+    "static/media/Manufacturing-5-popup-@2x.png": "./static/media/Manufacturing-5-popup-@2x.png",
+    "static/media/ISI-text-popup-@2x.png": "./static/media/ISI-text-popup-@2x.3a5619708a1b4d6e7560.png",
+    "static/media/Reference-popup-@2x.png": "./static/media/Reference-popup-@2x.a0fdf7da3aa76d8c668c.png",
+    "static/media/Manufacturing-2-popup-@2x.png": "./static/media/Manufacturing-2-popup-@2x.e8c76bb8594d86e7dfd9.png",
+    "static/media/Manufacturing-1-popup-@2x.png": "./static/media/Manufacturing-1-popup-@2x.e06300a0cc22206e4d50.png",
+    "static/media/ISI-background-popup-@2x.png": "./static/media/ISI-background-popup-@2x.19bacf0939fed3b917ad.png",
+    "static/media/Barlow-Regular.ttf": "./static/media/Barlow-Regular.e7eb634d040a6f384033.ttf",
+    "static/media/Home_content.png": "./static/media/Home_content.22a3da632edab66db973.png",
+    "static/media/footnote.png": "./static/media/footnote.02e984a33a2ed76da80d.png",
+    "static/media/ISI-header-popup-@2x.png": "./static/media/ISI-header-popup-@2x.a581ffc5b36044d1e6ee.png",
+    "static/media/Home_jobcode.png": "./static/media/Home_jobcode.548a94d7354c744d341f.png",
+    "static/media/global_nav_bkg_plusdots_@2x.png": "./static/media/global_nav_bkg_plusdots_@2x.e0a4d8f6235f04882db6.png",
+    "index.html": "./index.html",
+    "main.7a6ad0a8.css.map": "./static/css/main.7a6ad0a8.css.map",
+    "main.42ccf1cc.js.map": "./static/js/main.42ccf1cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a6ad0a8.css",
+    "static/js/main.42ccf1cc.js"
+  ]
+}
